@@ -12,7 +12,7 @@ By using the App, you agree to the practices described in this Privacy Policy.
 
 Kavyl is a "mood-first" healing companion app. It provides an AI companion for conversation, mood tracking, and gentle well-being features such as breathing exercises, good-night notes, and wellness tools. We are committed to protecting your privacy and to being transparent about how your data is handled.
 
-If you have questions about this policy, contact us at: **privacy@kavyl.example.com** (replace with your real support address before publishing).
+If you have questions about this policy, contact us at: **kitterive@qq.com** .
 
 ---
 
@@ -153,7 +153,7 @@ Your data may be processed in and transferred to countries other than the one in
 
 For any privacy questions, requests, or concerns:
 
-- Email: **privacy@kavyl.example.com** (replace with your real support address)
+- Email: **kitterive@qq.com** 
 - Support page: [Kavyl Support](https://github.com/guoxiujiang1971/kavyl/blob/main/SUPPORT.md)
 - We aim to respond to all legitimate requests within 30 days.
 
