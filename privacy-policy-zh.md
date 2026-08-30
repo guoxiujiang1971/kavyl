@@ -12,7 +12,7 @@ _最近更新：2026 年 8 月 30 日_
 
 Kavyl 是一款"情绪优先"的疗愈陪伴应用，提供 AI 陪伴对话、情绪记录，以及呼吸练习、晚安信、循证小工具等温和的健康功能。我们致力于保护您的隐私，并如实说明数据处理方式。
 
-如对本政策有疑问，请联系我们：**privacy@kavyl.example.com**（发布前请替换为真实邮箱）。
+如对本政策有疑问，请联系我们：**kitterive@qq.com**。
 
 ---
 
@@ -153,7 +153,7 @@ Kavyl 是一款"情绪优先"的疗愈陪伴应用，提供 AI 陪伴对话、�
 
 如有任何隐私问题、请求或疑虑：
 
-- 邮箱：**privacy@kavyl.example.com**（发布前请替换为真实邮箱）
+- 邮箱：**kitterive@qq.com**
 - 支持页面：[Kavyl 支持](https://github.com/guoxiujiang1971/kavyl/blob/main/SUPPORT.md)
 - 我们承诺在 30 天内回复所有合理请求。
 
