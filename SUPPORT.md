@@ -4,7 +4,7 @@ Thank you for using Kavyl, your mood-first AI companion. We are here to help.
 
 ## How to get help
 
-- **Email us**: support@kavyl.example.com — we usually reply within 2 business days.
+- **Email us**: kitterive@qq.com — we usually reply within 2 business days.
 - **Report an issue**: open an issue on [GitHub Issues](https://github.com/guoxiujiang1971/kavyl/issues).
 - **Restore a purchase**: open the app → Me → Subscription → Restore Purchases, or follow the steps in [Apple's guide](https://support.apple.com/en-us/HT204530).
 - **Delete your account and data**: open the app → Me → Data & Privacy → Delete Account & Data.
@@ -39,7 +39,7 @@ If you or someone you know is in immediate danger, contact your local emergency 
 
 ## 如何获得帮助
 
-- **邮件联系**：support@kavyl.example.com，一般 2 个工作日内回复。
+- **邮件联系**：kitterive@qq.com，一般 2 个工作日内回复。
 - **提交问题**：在 [GitHub Issues](https://github.com/guoxiujiang1971/kavyl/issues) 上创建问题。
 - **恢复购买**：打开应用 → 我的 → 订阅 → 恢复购买，或按 [Apple 指南](https://support.apple.com/en-us/HT204530) 操作。
 - **注销并删除数据**：打开应用 → 我的 → 数据与隐私 → 注销并删除数据。
