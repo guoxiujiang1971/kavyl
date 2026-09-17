@@ -1,6 +1,6 @@
 # Kavyl — Support
 
-Thank you for using Kavyl, your mood-first AI companion. We are here to help.
+Thank you for using Kavyl, a mood-first journal with a supportive AI assistant. We are here to help.
 
 ## How to get help
 
@@ -15,27 +15,27 @@ Thank you for using Kavyl, your mood-first AI companion. We are here to help.
 Open Me → Upgrade to Pro in the app and choose Monthly or Yearly. Subscriptions renew automatically until cancelled and can be managed anytime in Settings → App Store → Subscriptions.
 
 ### Where is my data stored?
-Your conversations, moods, and memories are stored securely and can be used fully offline. You can export or delete all of your data at any time from Me → Data & Privacy.
+Your conversations, moods, and memories are stored securely, and core features work offline. You can export or delete all of your data at any time from Me → Data & Privacy.
 
 ### Why does Kavyl ask to access Apple Health (HealthKit)?
-With your permission, Kavyl writes your breathing sessions to Apple Health as Mindfulness minutes, and reads health data only when you ask a health-related question so the AI can answer accurately. Health data is used solely to answer your questions and is never sold or used for advertising. You can revoke access anytime in Settings → Health.
+With your permission, Kavyl writes your breathing sessions to Apple Health as Mindfulness minutes, and reads health data only when you ask a health-related question so the assistant can answer accurately. Health data is used solely to answer your questions and is never sold or used for advertising. You can revoke access anytime in Settings → Health.
 
 ### Is Kavyl a real person?
-No. Kavyl characters are AI companions, not humans, and never claim to be mental-health professionals.
+No. Kavyl is an AI assistant, not a human, and never claims to be a mental-health professional or a therapist. Kavyl is a self-reflection tool, not a medical or psychological service.
 
 ### I'm in crisis — who can I contact?
 If you or someone you know is in immediate danger, contact your local emergency services or crisis line right away. The app also shows your local helpline under Me → In crisis? Contact your local helpline.
 
 ## Privacy & terms
 
-- [Privacy Policy](https://github.com/guoxiujiang1971/kavyl/blob/main/Privacy%20Policy.md)
+- [Privacy Policy](PRIVACY.md) · [日本語](PRIVACY.ja.md) · [한국어](PRIVACY.ko.md) · [简体中文](PRIVACY.zh-Hans.md)
 - [End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
 # Kavyl — 帮助与支持
 
-感谢使用 Kavyl，你的情绪优先 AI 陪伴应用。我们很乐意为你提供帮助。
+感谢使用 Kavyl —— 一个以情绪记录为核心、带有 AI 助手陪伴的应用。我们很乐意为你提供帮助。
 
 ## 如何获得帮助
 
@@ -50,18 +50,18 @@ If you or someone you know is in immediate danger, contact your local emergency 
 在应用内打开「我的 → 升级到 Pro」，选择月度或年度。订阅自动续费，可随时在 设置 → App Store → 订阅 中管理。
 
 ### 我的数据存在哪里？
-你的对话、情绪和记忆都被安全存储，支持完全离线使用。你可随时在「我的 → 数据与隐私」导出或删除全部数据。
+你的对话、情绪和记忆都被安全存储，主要功能支持离线使用。你可随时在「我的 → 数据与隐私」导出或删除全部数据。
 
 ### Kavyl 为什么要访问 Apple 健康（HealthKit）？
-经你授权，Kavyl 会把呼吸练习写入 Apple 健康「正念」时长；仅在你询问健康相关问题时读取健康数据，供 AI 准确回答。健康数据只用于回答你的提问，绝不出售，也绝不用于广告。你可随时在 设置 → 健康 中收回授权。
+经你授权，Kavyl 会把呼吸练习写入 Apple 健康「正念」时长；仅在你询问健康相关问题时读取健康数据，供助手准确回答。健康数据只用于回答你的提问，绝不出售，也绝不用于广告。你可随时在 设置 → 健康 中收回授权。
 
 ### Kavyl 是真人吗？
-不是。Kavyl 角色是 AI 陪伴，不是真人，也从不自称是心理健康专业人士。
+不是。Kavyl 是一个 AI 助手，不是真人，也从不自称是心理健康专业人士或治疗师。Kavyl 是自我觉察工具，不提供医疗或心理治疗服务。
 
 ### 我处于危机中，该联系谁？
 如果你或身边人有立即的危险，请立刻联系当地急救或危机热线。应用内「我的 → 遇到危机时请联系当地求助热线」也会显示当地求助渠道。
 
 ## 隐私与条款
 
-- [隐私政策](https://github.com/guoxiujiang1971/kavyl/blob/main/Privacy%20Policy.md)
+- [隐私政策](PRIVACY.md)（[English](PRIVACY.md) · [日本語](PRIVACY.ja.md) · [한국어](PRIVACY.ko.md) · [简体中文](PRIVACY.zh-Hans.md)）
 - [最终用户许可协议](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
