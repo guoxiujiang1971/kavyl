@@ -24,6 +24,8 @@ Japan's APPI, Korea's PIPA, Australia's Privacy Act, and Singapore's PDPA.
   websites. We do not use your conversations or memories to train AI models.
 - Features such as battery/thermal awareness, the daily small task, and memory search run
   **entirely on your device** and are never uploaded.
+- The illustrations Kavyl generates from your conversations (**your moments**) are stored
+  **privately** — only your signed-in account can access them.
 - You can **export or delete everything** in the App at any time: **Me → Data & Privacy**.
 - You do not need a phone number or an email address to use Kavyl.
 
@@ -129,12 +131,18 @@ conversations to a third-party AI company.**
 Your records are protected by **Row Level Security**, so your rows are only reachable by your
 authenticated account.
 
-**Images stored in our cloud.** Your chosen **avatar** and any **greeting cards you generate** are
-uploaded to our cloud storage so they can appear across your devices. These images live in storage
-buckets that are **publicly readable**: the link is a long, unguessable URL, but anyone who has that
-exact link can view the image. Please do not upload images you consider sensitive. (Photos you attach
-in a chat are **not** uploaded — only a local reference is synced; the file stays on your device, so
-a new device will not have it.)
+**Images stored in our cloud.**
+
+- **Your moments (snapshots)** — the illustrations the App generates from your conversations — are
+  stored in a **private** storage bucket. Only your signed-in account can access them (enforced by
+  per-user access rules on our storage), and they are served to the App through short-lived signed
+  links. If you share a moment, we share the **image itself**, not an access link.
+- **Your chosen avatar** and any **greeting card you generate** are stored in buckets that are
+  **publicly readable**: the link is a long, unguessable URL, but anyone who has that exact link can
+  view the image. Please do not upload images you consider sensitive.
+
+(Photos you attach in a chat are **not** uploaded — only a local reference is synced; the file stays
+on your device, so a new device will not have it.)
 
 ---
 
